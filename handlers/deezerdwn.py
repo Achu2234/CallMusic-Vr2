@@ -69,7 +69,7 @@ async def deezsong(_, message):
         artist = songs[0].artist
         await m.edit("Downloading")
         song = await download_song(url)
-        await m.edit("Uploading")
+        await m.edit("Uploading If you conot wait chat with my master group @Yeageristbots ")
         await message.reply_audio(audio=song, title=title,
                                   performer=artist)
         os.remove(song)
