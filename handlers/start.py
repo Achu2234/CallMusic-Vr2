@@ -68,7 +68,7 @@ Made with ❤️ <b>@NexaBotsUpdates</b>""",
             [
                 [
                     InlineKeyboardButton(
-                        "🔰️ My Update Channel 🔰️", url="https://t.me/Animemusicarchive6""
+                        "🔰️ My Update Channel 🔰️", url="https://t.me/Animemusicarchive6"
                     )
                 ],
                 [
