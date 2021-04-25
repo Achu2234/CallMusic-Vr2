@@ -1,6 +1,6 @@
-# Calls Music Plus
+# Calls music Vr2
 All Credits To [CallsMusic](https://github.com/callsmusic/callsmusic) ❤️ .
-This is CallsMusic-1
+This is CallsmusicVr2
 
 ## Original Repo!
 Here it is! [This The Original Repo ❤️](https://github.com/callsmusic/callsmusic)
@@ -19,22 +19,13 @@ _**You need another (dummy) Telegram Account To Use/Deploy This!**_
 
 And Some Cool Features! 😚️
 
-# Deployment
-Before You Deploy make sure you Starred & Forked **[The Original Repo ❤️](https://github.com/callsmusic/callsmusic)** . **And This Repo!** 🤗️
-
-
-## The Easy Way ⚡️
-
-### With Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/callmusic878979)
-
-#### Pyrogram String Session
-<a href="https://replit.com/@IamHirusha/GetPyroSessionVC"><img src="https://img.shields.io/badge/Run-Repl.it-white?style=for-the-badge&logo=repl.it"></a>
+  [Find me on telegram](https://t.me/YeageristMusic_bot)
 
 
 ## Support!
-Facing Problems While Deploying or Using? **[Read How To Deploy](https://github.com/Itz-fork/Callsmusic-Plus/wiki/How-To-Deploy-This!)**
-or Ask Me In **[Nexa Bots Support Group](https://t.me/Nexa_bots)**
+
+Join the [telegram group](https://t.me/Yeageristbots) for support and the [channel](https://t.me/Animemusicarchive6) for updates.   
+
 
 
 ### Config Vars 😂,
@@ -47,10 +38,50 @@ or Ask Me In **[Nexa Bots Support Group](https://t.me/Nexa_bots)**
  `DURATION_LIMIT` - Max Time Limited For a song!</br>
  `USER_ACCNAME` - Your bot's streamer account username without "@" ! </br>
 
-**[How To Get Config Vars? 🤔 Read This!](https://github.com/Itz-fork/yeah-my-man/wiki/How-To-Deploy-This!)**
+
+### With Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/CallsmusicVr2)
+
+#### Pyrogram String Session
+<a href="https://replit.com/@IamHirusha/GetPyroSessionVC"><img src="https://img.shields.io/badge/Run-Repl.it-white?style=for-the-badge&logo=repl.it"></a>
+
+Checked in 5230,64ms
+
+UserBot API
+
+Average Ping: 0,83 ms
+
+UserBot PyTgCalls
+
+WebSite
+
+Average Ping: 285,8 ms
+
+QR API Average Ping: 186,91 ms
+
+Bot WebHook
+
+Average Ping: 239,93 ms
+
+Yeagerist-Music-Streamer-Bot Dashboard
+
+Average Ping: 252,39 ms
+
+YouTube.com
+
+Average Ping: 440,74 ms
 
 
-## The Hard Way!
+Credits to
+
+- Mr Dark Prince
+- ImJanindu
+- callsmusic
+- TheHamkerCat
+
+
+
+
 
 ### Requirements
 
@@ -88,16 +119,17 @@ Copy `example.env` to `.env` and fill it with your credentials.
 
 - [CallsMusic](https://github.com/callsmusic/callsmusic) ~ This is the original Repo! ❤️
 
-- [Roj](https://github.com/rojserbest) & [Marvin](https://github.com/BlackStoneReborn): development
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
 
-## Thanks To,
+## Copyright,
 
-- [N A C CREATIVE](https://t.me/n_a_c_creative): For Voice Chat Link Command!
-- Mr Dark prince : For Yt / Saavn Module
+This code is not fully ownned by me this code this Vr2 of  [CallsMusic](https://github.com/callsmusic/callsmusic) this code supports more feauturs
 
 
 ## License
 
 ### GNU General Public License v3.0
 [Read more](http://www.gnu.org/licenses/#GPL)
+
+
+A project by [Yᴇᴀɢᴇʀɪsᴛ Bᴏᴛs #𝓑𝓸𝓽𝓼𝓝𝓮𝓽𝔀𝓸𝓻𝓴](https://t.me/Animemusicarchive6)
+
